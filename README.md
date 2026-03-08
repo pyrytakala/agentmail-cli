@@ -1,6 +1,8 @@
 # agentmail-cli
 
-CLI for the [AgentMail](https://agentmail.to) API — email inboxes for AI agents. Made with [api2cli.dev](https://api2cli.dev).
+Unofficial CLI for the [AgentMail](https://agentmail.to) API — email inboxes for AI agents. Made with [api2cli.dev](https://api2cli.dev).
+
+> **Note:** This is a community-maintained project and is not officially affiliated with or endorsed by AgentMail.
 
 ## Install
 
