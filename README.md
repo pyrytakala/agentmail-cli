@@ -5,7 +5,7 @@ CLI for the [AgentMail](https://agentmail.to) API — email inboxes for AI agent
 ## Install
 
 ```bash
-npx api2cli install pyry/agentmail-cli
+npx api2cli install pyrytakala/agentmail-cli
 ```
 
 This clones the repo, builds the CLI, links it to your PATH, and installs the AgentSkill to your coding agents.
@@ -13,7 +13,7 @@ This clones the repo, builds the CLI, links it to your PATH, and installs the Ag
 ## Install AgentSkill only
 
 ```bash
-npx skills add pyry/agentmail-cli
+npx skills add pyrytakala/agentmail-cli
 ```
 
 ## Usage
